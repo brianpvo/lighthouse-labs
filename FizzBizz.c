@@ -1,5 +1,5 @@
 //
-//  main.c
+//  FizzBizz.c
 //  FizzBizz
 //
 //  Created by Brian Vo on 2018-01-12.
