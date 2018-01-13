@@ -1,1 +1,1 @@
-# lighthouse-labs
+# Lighthouse Labs Assignments
